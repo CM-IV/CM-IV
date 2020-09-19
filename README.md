@@ -4,7 +4,7 @@
 
 #### My Profile
 
-Hello there!  My name is Charlie and I am fascinated with Computer Science.
+My name is Charlie and I am fascinated with Computer Science.
 
 I am interested in web development particularly involving JS.  I also like to program in C/C++.
 
