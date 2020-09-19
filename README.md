@@ -6,7 +6,9 @@
 
 My name is Charlie and I am fascinated with Computer Science.
 
-I am interested in web development particularly involving JS.  I also like object oriented development in C/C++.
+I am interested in web development particularly involving JS.  
+
+I also like object oriented development, gravitating towards systems and embedded C/C++.
 
 
 - 🔭 I’m currently working on my Bachelors in Computer Science
