@@ -6,6 +6,8 @@
 
 Hello there!  My name is Charlie and I am fascinated with Computer Science.
 
+I am interested in web development particularly involving JS.  I also like to program in C/C++.
+
 
 - 🔭 I’m currently working on my Bachelors in Computer Science
 - 🌱 I’m currently learning Software Engineering
