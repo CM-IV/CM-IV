@@ -23,6 +23,7 @@ I also like object oriented development, gravitating towards systems and embedde
 Here are some other technologies I am interested in:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
@@ -34,7 +35,6 @@ Here are some other technologies I am interested in:
 - 🌱 I’m currently learning Software Engineering principles and techniques
 - 👯 I’m looking to collaborate on full stack applications involving GraphQL APIs w/ graph databases.
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me:
