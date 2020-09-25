@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+![](https://komarev.com/ghpvc/?username=CM-IV&color=red)
+
 ----
 
 #### My Profile
