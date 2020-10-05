@@ -35,7 +35,7 @@ Here are some other technologies I am interested in:
 
 - 🔭 I’m currently working on my Bachelors in Computer Science
 - 🌱 I’m currently learning Software Engineering principles and techniques
-- 👯 I’m looking to collaborate on full stack applications involving GraphQL APIs w/ graph databases.
+- 👯 I’m looking to collaborate on full stack applications involving GraphQL APIs.
 
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
