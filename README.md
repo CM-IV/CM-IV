@@ -31,7 +31,6 @@ Here are some other technologies I am interested in:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 - 🔭 I’m currently working on my Bachelors in Computer Science
 - 🌱 I’m currently learning Software Engineering principles and techniques
