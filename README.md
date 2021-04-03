@@ -17,7 +17,7 @@ I am interested in web development particularly involving JavaScript, and I tend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-I also have experience with algorithms/data structures and how they are immplemented, gravitating towards systems and embedded C/C++.
+I also have experience with algorithms/data structures and how they are implemented, gravitating towards systems and embedded C/C++.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
