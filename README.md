@@ -10,14 +10,14 @@ My name is Charlie and I am fascinated with Computer Science.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
-I am interested in web development particularly involving JavaScript.  
+I am interested in web development particularly involving JavaScript, and I tend to focus most of my time here.  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
-I also like object oriented development, gravitating towards systems and embedded C/C++.
+I also have experience with algorithms/data structures and how they are immplemented, gravitating towards systems and embedded C/C++.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
@@ -31,7 +31,7 @@ Here are some other technologies I am interested in:
 
 - 🔭 I’m currently working on my Bachelors in Computer Science.
 - 🌱 I’m currently learning Computer Security principles and techniques.
-- 👯 I’m looking to collaborate on full stack applications involving Node APIs.
+- 👯 I’m looking to collaborate on full stack applications involving Node APIs with PostgreSQL Databases.
 
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
