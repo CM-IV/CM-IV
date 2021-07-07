@@ -10,8 +10,9 @@ My name is Charlie and I am fascinated with Computer Science.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
-I am interested in web development particularly involving JavaScript, and I tend to focus most of my time here.  
+I am interested in web development particularly involving JavaScript, and I tend to focus most of my time here.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
