@@ -30,7 +30,7 @@ Here are some other technologies I am interested in:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-- 🔭 I’m currently working on my Bachelors in Computer Science.
+- 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
 - 🌱 I’m currently learning about writing Discrete Mathematics and Number Theory Proofs.
 - 👯 I’m looking to collaborate on full stack applications involving Node APIs with PostgreSQL Databases.
 
