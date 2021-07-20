@@ -25,7 +25,6 @@ I also have experience with algorithms/data structures and how they are implemen
 
 Here are some other technologies I am interested in:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
