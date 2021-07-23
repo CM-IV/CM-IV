@@ -43,4 +43,4 @@ Here are some other technologies I am interested in:
 
 - Business Email:
 
-[![Gmail Badge](https://img.shields.io/badge/-cmathIV@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmathIV@protonmail.com)](mailto:chuck@civdev.rocks)
+[![Gmail Badge](https://img.shields.io/badge/-chuck@civdev.rocks-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuck@civdev.rocks)](mailto:chuck@civdev.rocks)
