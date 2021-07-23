@@ -35,11 +35,7 @@ Here are some other technologies I am interested in:
 - 🌱 I’m currently learning about writing Discrete Mathematics and Number Theory Proofs.
 - 👯 I’m looking to collaborate on full stack applications involving Node APIs with PostgreSQL Databases.
 
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
 - 📫 How to reach me:
-
-![Website](https://img.shields.io/website?up_color=red&up_message=online&url=https%3A%2F%2Fcivdev.rocks)
 
 - Personal Email:
 
