@@ -30,8 +30,8 @@ Here are some other technologies I am interested in:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 - 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
-- 🌱 I’m currently learning about writing Discrete Mathematics and Number Theory Proofs.
-- 👯 I’m looking to collaborate on full stack applications involving Node APIs with PostgreSQL Databases.
+- 🌱 I’m currently learning about Web3 and participating in virtual Hackathons.
+- 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs.
 
 - 📫 How to reach me:
 
