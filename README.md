@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CM-IV&color=red)
 ![npm](https://img.shields.io/badge/NPM-%40cm--iv-red)
+![](https://img.shields.io/badge/Donate%20Monero-83QenUEBW9iQpcPybXDgBhWbLdkEuL8bMH2UVBDRH2EwLCSnhT637g92vsfkvxiFFMZq1DTKXNYupLsueWHjCaiZ9QJBFC5-orange)
 
 ----
 
