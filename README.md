@@ -21,13 +21,13 @@ I am interested in web development particularly involving JavaScript, and I tend
 
 I also have experience with algorithms/data structures and how they are implemented, gravitating towards systems and embedded C/C++.
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 Here are some other technologies I am interested in:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
 - 🌱 I’m currently learning about Web3 and participating in virtual Hackathons.
