@@ -14,9 +14,8 @@ My name is Charlie and I am fascinated with Computer Science.
 I am interested in web development particularly involving JavaScript, and I tend to focus most of my time here.
 
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 I also have experience with algorithms/data structures and how they are implemented, gravitating towards systems and embedded C/C++.
