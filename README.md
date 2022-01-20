@@ -32,8 +32,8 @@ Here are some other technologies I am interested in:
 - 🌱 I’m currently learning about Web3 and participating in virtual Hackathons.
 - 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs.
 
-- 📫 How to reach me:
+📫 How to reach me:
 
-- Email:
+Email
 
 [![Gmail Badge](https://img.shields.io/badge/-cmathIV@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmathIV@protonmail.com)](mailto:cmathIV@protonmail.com)
