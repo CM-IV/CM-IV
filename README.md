@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CM-IV&color=red)
 ![npm](https://img.shields.io/badge/NPM-%40cm--iv-red)
-![](https://img.shields.io/badge/Donate%20Monero-https://occidentsoftware.netlify.app/donate/-orange)
+![](https://img.shields.io/badge/Donate%20Monero--orange)
 
 ----
 
