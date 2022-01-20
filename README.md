@@ -26,7 +26,7 @@ I also have experience with algorithms/data structures and how they are implemen
 
 Here are some other technologies I am interested in:
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 - 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
