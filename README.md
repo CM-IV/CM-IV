@@ -13,8 +13,6 @@
 
 My name is Charlie and I am fascinated with Computer Science.
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
 I am interested in web development particularly involving TypeScript, and I tend to focus most of my time here.
 
 
@@ -22,7 +20,7 @@ I am interested in web development particularly involving TypeScript, and I tend
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-I also have experience with algorithms/data structures and how they are implemented, gravitating towards systems and embedded C/C++.
+I also have experience with algorithms/data structures and how they are implemented, using C/C++.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
