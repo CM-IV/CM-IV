@@ -18,6 +18,7 @@ I am interested in web development particularly involving TypeScript, and I tend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-CI/CD-green?logo=appveyor&style=for-the-badge)
 
 
 I also have experience with algorithms/data structures and how they are implemented, using C/C++.
@@ -29,10 +30,11 @@ Here are some other technologies I am interested in:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=for-the-badge)
 
 - 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
-- 🌱 I’m currently learning about Web3 and participating in virtual Hackathons.
-- 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs.
+- 🌱 I’m currently building fullstack applications, gravitating towards implementing Saas.
+- 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs, or help with DevOps Adminstration.
 
 📫 How to reach me:
 
