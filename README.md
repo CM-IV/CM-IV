@@ -33,7 +33,7 @@ Here are some other technologies I am interested in:
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=for-the-badge)
 
 - 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
-- 🌱 I’m currently building fullstack applications, gravitating towards implementing Saas.
+- 🌱 I’m currently building fullstack Saas applications.
 - 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs, or help with DevOps Adminstration.
 
 📫 How to reach me:
