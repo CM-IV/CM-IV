@@ -1,9 +1,3 @@
-![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/CM-IV/my-stats/blob/master/generated/languages.svg)
-
-----
-
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=CM-IV&color=red)
@@ -39,3 +33,9 @@ Here are some other technologies I am interested in:
 Email
 
 [![Gmail Badge](https://img.shields.io/badge/-cmathIV@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmathIV@protonmail.com)](mailto:cmathIV@protonmail.com)
+
+---
+
+![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/CM-IV/my-stats/blob/master/generated/languages.svg)
