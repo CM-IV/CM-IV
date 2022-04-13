@@ -4,8 +4,9 @@
 ![npm](https://img.shields.io/badge/NPM-%40cm--iv-red)
 
 
+![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
 
-[![](https://img.shields.io/badge/Donate%20Monero-XMR-orange)](https://occidentsoftware.netlify.app/donate/)
+![](https://github.com/CM-IV/my-stats/blob/master/generated/languages.svg)
 
 ----
 
