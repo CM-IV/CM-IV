@@ -24,8 +24,8 @@ Here are some other technologies I am interested in:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=for-the-badge)
 
-- 🔭 I’m currently finishing up my Bachelors Degree in Computer Science.
-- 🌱 I’m currently building fullstack Saas applications.
+- 🔭 I have just recently attained my Bachelor's Degree in Computer Science with a minor in Mathematics. 
+- 🌱 I’m currently building my own Go API with Gin web framework for production. 
 - 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs, or help with DevOps Adminstration.
 
 📫 How to reach me:
