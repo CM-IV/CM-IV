@@ -30,5 +30,4 @@ Email
 ---
 
 ![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
-
 ![](https://github.com/CM-IV/my-stats/blob/master/generated/languages.svg)
