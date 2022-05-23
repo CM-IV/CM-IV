@@ -5,7 +5,7 @@
 
 My name is Charlie and I am fascinated with Computer Science.
 
-I am interested in web development particularly involving TypeScript, and I tend to focus most of my time here.
+I am interested in web development particularly involving TypeScript or Go, and I tend to focus most of my time here.
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,13 +16,6 @@ I am interested in web development particularly involving TypeScript, and I tend
 I also have experience with algorithms/data structures and how they are implemented, using C/C++.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-Here are some other technologies I am interested in:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker&style=for-the-badge)
 
 - 🔭 I have just recently attained my Bachelor's Degree in Computer Science with a minor in Mathematics. 
 - 🌱 I’m currently building my own Go API with Gin web framework for production. 
