@@ -18,7 +18,7 @@ I also have experience with algorithms/data structures and how they are implemen
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - 🔭 I have just recently attained my Bachelor's Degree in Computer Science with a minor in Mathematics. 
-- 🌱 I’m currently building my own Go API with Gin web framework for production. 
+- 🌱 I’m currently learning about 2D game development using the Godot Engine. 
 - 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs, or help with DevOps Adminstration.
 
 📫 How to reach me:
