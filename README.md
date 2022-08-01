@@ -26,11 +26,6 @@ I also have experience with algorithms/data structures and how they are implemen
 Email for business inquiries
 
 [![Gmail Badge](https://img.shields.io/badge/-chuck@civdev.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuck@civdev.xyz)](mailto:chuck@civdev.xyz)
-
-Personal Email
-
-[![Gmail Badge](https://img.shields.io/badge/-cmathIV@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmathIV@protonmail.com)](mailto:cmathIV@protonmail.com)
-
 ---
 
 ![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
