@@ -15,7 +15,3 @@ I am interested in web development particularly involving TypeScript or Go, and 
 Email for business inquiries
 
 [![Gmail Badge](https://img.shields.io/badge/-chuck@civdev.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuck@civdev.xyz)](mailto:chuck@civdev.xyz)
----
-
-![](https://github.com/CM-IV/my-stats/blob/master/generated/overview.svg)
-![](https://github.com/CM-IV/my-stats/blob/master/generated/languages.svg)
