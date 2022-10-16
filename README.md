@@ -8,7 +8,6 @@ My name is Charlie and I am fascinated with Computer Science.
 I am interested in web development particularly involving TypeScript or Go, and I tend to focus most of my time here.
 
 - 🔭 I have recently attained my Bachelor's Degree in Computer Science with a Minor in Mathematics. 
-- 🌱 I’m currently making applications using my favorite tech stack
 - 👯 I’m looking to collaborate on applications involving Node APIs with relational DBs, implement data structures to help improve speed and reliability of code, or help with DevOps Adminstration.
 
 📫 How to reach me:
