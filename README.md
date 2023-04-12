@@ -5,7 +5,7 @@
 
 My name is Charlie and I am fascinated with Computer Science.
 
-I am interested in web development particularly involving TypeScript, and I tend to focus most of my time here.
+I am interested in web development involving TypeScript and terminal systems development with Rust - I tend to focus most of my time here.
 
 - 🔭 I have recently attained my Bachelor's Degree in Computer Science with a Minor in Mathematics. 
 - 👯 I’m currently learning Rust.
