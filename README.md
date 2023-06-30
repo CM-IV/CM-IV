@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=CM-IV&color=red)
-![npm](https://img.shields.io/badge/NPM-%40cm--iv-red)
 
 My name is Charlie and I am fascinated with Computer Science.
 
