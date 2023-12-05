@@ -8,9 +8,3 @@ I am interested in web development involving TypeScript and systems development 
 
 - 🔭 I have recently attained my Bachelor's Degree in Computer Science with a Minor in Mathematics. 
 - 👯 I’m currently learning Rust.
-
-📫 How to reach me:
-
-Email for business inquiries
-
-[![Gmail Badge](https://img.shields.io/badge/-chuck@civdev.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuck@civdev.xyz)](mailto:chuck@civdev.xyz)
