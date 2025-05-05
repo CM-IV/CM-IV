@@ -7,5 +7,5 @@ My name is Charlie and I am fascinated with Computer Science.
 I am interested in web development involving TypeScript and systems development with Rust - I tend to focus most of my time here.
 
 - 🔭 I have attained my Bachelor's Degree in Computer Science with a Minor in Mathematics.
-- 🙏 I work full time as a Fullstack developer.
+- 🙏 I work as a Fullstack developer.
 - 👯 I’m currently learning Rust.
