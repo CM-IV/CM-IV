@@ -8,4 +8,4 @@ I am interested in web development involving TypeScript and systems development 
 
 - 🔭 I have attained my Bachelor's Degree in Computer Science with a Minor in Mathematics.
 - 🙏 I work as a Fullstack developer.
-- 👯 I’m currently learning Rust.
+- 👯 I’m currently designing my own PCBs with KiCAD and writing firmware for them.
